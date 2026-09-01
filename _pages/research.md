@@ -20,7 +20,7 @@ I am a geographer studying activity-travel behavior — how people move through 
 
 <div style="margin-top: 3em;" markdown="1">
 
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.6em 0;" />
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.35em 0;" />
 <h2>Mobility Equity</h2>
 
 <div style="display: flex; gap: 2em; align-items: flex-start;" markdown="1">
@@ -52,7 +52,7 @@ Access to activity opportunities — the places, services, and social interactio
 
 <div style="margin-top: 3em;" markdown="1">
 
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.6em 0;" />
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.35em 0;" />
 <h2>Discovering Behavior from Geospatial Data</h2>
 
 <div style="display: flex; gap: 2em; align-items: flex-start;" markdown="1">
@@ -84,7 +84,7 @@ Much of today's mobility data — mobile phone location records, GPS traces, and
 
 <div style="margin-top: 3em;" markdown="1">
 
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.6em 0;" />
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.35em 0;" />
 <h2>Sustainable Mobility</h2>
 
 <div style="display: flex; gap: 2em; align-items: flex-start;" markdown="1">
@@ -120,7 +120,7 @@ Reducing carbon emissions from transportation requires understanding not just in
 
 <div style="margin-top: 1.5em;" markdown="1">
 
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.6em 0;" />
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.35em 0;" />
 <h2>Mobility in a Changing Technological Landscape</h2>
 
 <div style="display: flex; gap: 2em; align-items: flex-start;" markdown="1">
@@ -150,7 +150,7 @@ Emerging mobility technologies and shifting lifestyles such as remote work are r
 
 <div style="margin-top: 3em;" markdown="1">
 
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.6em 0;" />
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.35em 0;" />
 <h2>Mobility & Climate Change</h2>
 
 <div style="display: flex; gap: 2em; align-items: flex-start;" markdown="1">
