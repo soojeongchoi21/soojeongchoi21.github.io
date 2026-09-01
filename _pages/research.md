@@ -36,7 +36,7 @@ Access to activity opportunities — the places, services, and social interactio
 </div>
 </div>
 
-<p style="font-size:1.5em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
+<p style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
 
 <div class="selected-work-wrap" markdown="1">
 
