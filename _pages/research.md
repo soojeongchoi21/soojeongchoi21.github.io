@@ -20,7 +20,7 @@ Access to activity opportunities — the places, services, and social interactio
 </div>
 <div style="flex: 1;">
 
-![Mobility Equity](/images/topic_1.png)
+![Mobility Equity](/images/topic_1.jpg)
 
 </div>
 </div>
@@ -72,7 +72,7 @@ Reducing carbon emissions from transportation requires understanding not just in
 </div>
 <div style="flex: 1;">
 
-![Sustainable Mobility](/images/topic_3.png)
+![Sustainable Mobility](/images/topic_3.jpg)
 
 </div>
 </div>
@@ -102,7 +102,7 @@ Emerging mobility technologies and shifting lifestyles such as remote work are r
 </div>
 <div style="flex: 1;">
 
-![Mobility in a Changing Technological Landscape](/images/topic_4.png)
+![Mobility in a Changing Technological Landscape](/images/topic_4.jpg)
 
 </div>
 </div>
@@ -123,7 +123,7 @@ Climate-related disruptions raise urgent questions about how much individuals ar
 </div>
 <div style="flex: 1;">
 
-![Mobility & Climate Change](/images/topic_5.png)
+![Mobility & Climate Change](/images/topic_5.jpg)
 
 </div>
 </div>
