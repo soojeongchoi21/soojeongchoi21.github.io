@@ -68,7 +68,7 @@ Much of today's mobility data — mobile phone location records, GPS traces, and
 </div>
 </div>
 
-<p style="font-size:1.5em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
+<p style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
 
 <div class="selected-work-wrap" markdown="1">
 
@@ -100,7 +100,7 @@ Reducing carbon emissions from transportation requires understanding not just in
 </div>
 </div>
 
-<p style="font-size:1.5em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
+<p style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
 
 <div class="selected-work-wrap" markdown="1">
 
@@ -138,7 +138,7 @@ Emerging mobility technologies and shifting lifestyles such as remote work are r
 </div>
 </div>
 
-<p style="font-size:1.5em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
+<p style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
 
 <div class="selected-work-wrap" markdown="1">
 
