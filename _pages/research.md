@@ -11,7 +11,7 @@ I am a geographer studying activity-travel behavior — how people move through 
 <hr style="border: none; border-top: 1px solid #d1d5db; margin: 2em 0 0 0;" />
 
 <div style="margin-top: 3em;" markdown="1">
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.8em 0;" />
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.4em 0;" />
 
 ## Mobility Equity
 
@@ -28,32 +28,30 @@ Access to activity opportunities — the places, services, and social interactio
 </div>
 </div>
 
-<span style="font-size:0.75em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase;">Selected Work</span>
+<span style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase;">Selected Work</span>
 
 <div markdown="1">
 
-<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.5em 0; border-bottom:1px solid #e5e7eb; gap:1.5em;" markdown="1">
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.3em 0; border-bottom:1px solid #e5e7eb; gap:1.5em; font-size:0.9em;" markdown="1">
 <span>What makes for an active aging society? A focus on out-of-home activity participation</span>
-<span style="flex-shrink:0; font-size:0.75em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">Master Thesis · 2025</span>
+<span style="flex-shrink:0; font-size:0.85em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">Master Thesis · 2025</span>
 </div>
 
-<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.5em 0; border-bottom:1px solid #e5e7eb; gap:1.5em;" markdown="1">
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.3em 0; border-bottom:1px solid #e5e7eb; gap:1.5em; font-size:0.9em;" markdown="1">
 <span>The Crisis of Industrial Cities and Industrial Patriarchy: A Focus on Special Industrial Crisis Response Regions</span>
-<span style="flex-shrink:0; font-size:0.75em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">Journal of the Korean Urban Geographical Society · 2025</span>
+<span style="flex-shrink:0; font-size:0.85em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">Journal of the Korean Urban Geographical Society · 2025</span>
 </div>
 
-<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.5em 0; border-bottom:1px solid #e5e7eb; gap:1.5em;" markdown="1">
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.3em 0; border-bottom:1px solid #e5e7eb; gap:1.5em; font-size:0.9em;" markdown="1">
 <span>Which spatial components affect Active aging society?: Focused on activity-travel behavior of older people, social infrastructure, and public transportation</span>
-<span style="flex-shrink:0; font-size:0.75em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">Annual Conference of Korean Geographical Society · 2024</span>
+<span style="flex-shrink:0; font-size:0.85em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">Annual Conference of Korean Geographical Society · 2024</span>
 </div>
 
 </div>
 </div>
-
-<hr style="border: none; border-top: 1px solid #d1d5db; margin: 2em 0 0 0;" />
 
 <div style="margin-top: 3em;" markdown="1">
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.8em 0;" />
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.4em 0;" />
 
 ## Discovering Behavior from Geospatial Data
 
@@ -70,32 +68,30 @@ Much of today's mobility data — mobile phone location records, GPS traces, and
 </div>
 </div>
 
-<span style="font-size:0.75em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase;">Selected Work</span>
+<span style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase;">Selected Work</span>
 
 <div markdown="1">
 
-<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.5em 0; border-bottom:1px solid #e5e7eb; gap:1.5em;" markdown="1">
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.3em 0; border-bottom:1px solid #e5e7eb; gap:1.5em; font-size:0.9em;" markdown="1">
 <span>Exploring Urban Mobility Patterns with Multi-Dimensional Spatial Characteristics Sequence Analysis</span>
-<span style="flex-shrink:0; font-size:0.75em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">AAG Annual Meeting · 2026</span>
+<span style="flex-shrink:0; font-size:0.85em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">AAG Annual Meeting · 2026</span>
 </div>
 
-<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.5em 0; border-bottom:1px solid #e5e7eb; gap:1.5em;" markdown="1">
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.3em 0; border-bottom:1px solid #e5e7eb; gap:1.5em; font-size:0.9em;" markdown="1">
 <span>Empirical Analysis of the Relationships between Land Use and Activity-Travel Behavior: Sequential Analysis Approach</span>
-<span style="flex-shrink:0; font-size:0.75em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">AAG Annual Meeting · 2024</span>
+<span style="flex-shrink:0; font-size:0.85em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">AAG Annual Meeting · 2024</span>
 </div>
 
-<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.5em 0; border-bottom:1px solid #e5e7eb; gap:1.5em;" markdown="1">
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.3em 0; border-bottom:1px solid #e5e7eb; gap:1.5em; font-size:0.9em;" markdown="1">
 <span>Mid- to Long-Term Mobility Pattern Change with Participatory Geographic Information</span>
-<span style="flex-shrink:0; font-size:0.75em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">National Research Foundation of Korea · 2023-2025</span>
+<span style="flex-shrink:0; font-size:0.85em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">National Research Foundation of Korea · 2023-2025</span>
 </div>
 
 </div>
 </div>
-
-<hr style="border: none; border-top: 1px solid #d1d5db; margin: 2em 0 0 0;" />
 
 <div style="margin-top: 3em;" markdown="1">
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.8em 0;" />
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.4em 0;" />
 
 ## Sustainable Mobility
 
@@ -112,23 +108,23 @@ Reducing carbon emissions from transportation requires understanding not just in
 </div>
 </div>
 
-<span style="font-size:0.75em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase;">Selected Work</span>
+<span style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase;">Selected Work</span>
 
 <div markdown="1">
 
-<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.5em 0; border-bottom:1px solid #e5e7eb; gap:1.5em;" markdown="1">
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.3em 0; border-bottom:1px solid #e5e7eb; gap:1.5em; font-size:0.9em;" markdown="1">
 <span>Household sharing of electric vehicles and the influence on electric miles travelled</span>
-<span style="flex-shrink:0; font-size:0.75em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">Humanities and Social Sciences Communications (Under Review) · 2026</span>
+<span style="flex-shrink:0; font-size:0.85em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">Humanities and Social Sciences Communications (Under Review) · 2026</span>
 </div>
 
-<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.5em 0; border-bottom:1px solid #e5e7eb; gap:1.5em;" markdown="1">
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.3em 0; border-bottom:1px solid #e5e7eb; gap:1.5em; font-size:0.9em;" markdown="1">
 <span>Spatial Strategy for Carbon-Neutral Energy Sector</span>
-<span style="flex-shrink:0; font-size:0.75em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">Korea Research Institute for Human Settlements · 2024</span>
+<span style="flex-shrink:0; font-size:0.85em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">Korea Research Institute for Human Settlements · 2024</span>
 </div>
 
-<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.5em 0; border-bottom:1px solid #e5e7eb; gap:1.5em;" markdown="1">
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.3em 0; border-bottom:1px solid #e5e7eb; gap:1.5em; font-size:0.9em;" markdown="1">
 <span>Grid-level EV Charging Infrastructure Siting</span>
-<span style="flex-shrink:0; font-size:0.75em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">Korea Research Institute for Human Settlements · 2023</span>
+<span style="flex-shrink:0; font-size:0.85em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">Korea Research Institute for Human Settlements · 2023</span>
 </div>
 
 </div>
@@ -139,11 +135,6 @@ Reducing carbon emissions from transportation requires understanding not just in
 # Future Direction
 
 <hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0.5em 0 1em 0;" />
-
-</div>
-
-<div style="margin-top: 1em;" markdown="1">
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.8em 0;" />
 
 ## Mobility in a Changing Technological Landscape
 
@@ -160,22 +151,19 @@ Emerging mobility technologies and shifting lifestyles such as remote work are r
 </div>
 </div>
 
-<span style="font-size:0.75em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase;">Selected Work</span>
+<span style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase;">Selected Work</span>
 
 <div markdown="1">
 
-<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.5em 0; border-bottom:1px solid #e5e7eb; gap:1.5em;" markdown="1">
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding:0.3em 0; border-bottom:1px solid #e5e7eb; gap:1.5em; font-size:0.9em;" markdown="1">
 <span>Development of next-generation AI integrated mobility simulation and prediction/application technologies for metropolitan cities</span>
-<span style="flex-shrink:0; font-size:0.75em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">Ministry of Science and ICT · 2024-2027</span>
+<span style="flex-shrink:0; font-size:0.85em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">Ministry of Science and ICT · 2024-2027</span>
 </div>
 
 </div>
 </div>
-
-<hr style="border: none; border-top: 1px solid #d1d5db; margin: 2em 0 0 0;" />
 
 <div style="margin-top: 3em;" markdown="1">
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.8em 0;" />
 
 ## Mobility & Climate Change
 
