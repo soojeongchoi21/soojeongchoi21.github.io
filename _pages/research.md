@@ -11,7 +11,7 @@ I am a geographer studying activity-travel behavior — how people move through 
 <hr style="border: none; border-top: 1px solid #d1d5db; margin: 2em 0 0 0;" />
 
 <div style="margin-top: 3em;" markdown="1">
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.4em 0;" />
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.15em 0;" />
 
 ## Mobility Equity
 
@@ -28,7 +28,8 @@ Access to activity opportunities — the places, services, and social interactio
 </div>
 </div>
 
-<span style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase;">Selected Work</span>
+<div style="margin-top:0.8em;" markdown="1">
+<span style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; display:block; margin-bottom:-0.5em;">Selected Work</span>
 
 <div markdown="1">
 
@@ -49,9 +50,10 @@ Access to activity opportunities — the places, services, and social interactio
 
 </div>
 </div>
+</div>
 
 <div style="margin-top: 3em;" markdown="1">
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.4em 0;" />
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.15em 0;" />
 
 ## Discovering Behavior from Geospatial Data
 
@@ -68,7 +70,8 @@ Much of today's mobility data — mobile phone location records, GPS traces, and
 </div>
 </div>
 
-<span style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase;">Selected Work</span>
+<div style="margin-top:0.8em;" markdown="1">
+<span style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; display:block; margin-bottom:-0.5em;">Selected Work</span>
 
 <div markdown="1">
 
@@ -89,9 +92,10 @@ Much of today's mobility data — mobile phone location records, GPS traces, and
 
 </div>
 </div>
+</div>
 
 <div style="margin-top: 3em;" markdown="1">
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.4em 0;" />
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.15em 0;" />
 
 ## Sustainable Mobility
 
@@ -108,7 +112,8 @@ Reducing carbon emissions from transportation requires understanding not just in
 </div>
 </div>
 
-<span style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase;">Selected Work</span>
+<div style="margin-top:0.8em;" markdown="1">
+<span style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; display:block; margin-bottom:-0.5em;">Selected Work</span>
 
 <div markdown="1">
 
@@ -129,12 +134,14 @@ Reducing carbon emissions from transportation requires understanding not just in
 
 </div>
 </div>
+</div>
 
 <div style="margin-top: 3em;" markdown="1">
 
 # Future Direction
 
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0.5em 0 1em 0;" />
+<div style="margin-top: 1.5em;" markdown="1">
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.15em 0;" />
 
 ## Mobility in a Changing Technological Landscape
 
@@ -151,7 +158,8 @@ Emerging mobility technologies and shifting lifestyles such as remote work are r
 </div>
 </div>
 
-<span style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase;">Selected Work</span>
+<div style="margin-top:0.8em;" markdown="1">
+<span style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; display:block; margin-bottom:-0.5em;">Selected Work</span>
 
 <div markdown="1">
 
@@ -160,6 +168,7 @@ Emerging mobility technologies and shifting lifestyles such as remote work are r
 <span style="flex-shrink:0; font-size:0.85em; letter-spacing:0.03em; color:#9ca3af; white-space:nowrap;">Ministry of Science and ICT · 2024-2027</span>
 </div>
 
+</div>
 </div>
 </div>
 
@@ -180,4 +189,5 @@ Climate-related disruptions raise urgent questions about how much individuals ar
 </div>
 </div>
 
+</div>
 </div>
