@@ -18,9 +18,9 @@ I am a geographer studying activity-travel behavior — how people move through 
 
 <hr style="border: none; border-top: 1px solid #d1d5db; margin: 2em 0 0 0;" />
 
-<div style="margin-top: 0.7em;" markdown="1">
+<div style="margin-top: 1.5em;" markdown="1">
 
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.7em 0;" />
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 1.5em 0;" />
 <h2 style="margin-top: 0;">Mobility Equity</h2>
 
 <div style="display: flex; gap: 2em; align-items: flex-start;" markdown="1">
@@ -36,7 +36,7 @@ Access to activity opportunities — the places, services, and social interactio
 </div>
 </div>
 
-<p style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
+<p style="font-size:1.5em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
 
 <div class="selected-work-wrap" markdown="1">
 
@@ -52,7 +52,7 @@ Access to activity opportunities — the places, services, and social interactio
 
 <div style="margin-top: 3em;" markdown="1">
 
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.7em 0;" />
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 1.5em 0;" />
 <h2 style="margin-top: 0;">Discovering Behavior from Geospatial Data</h2>
 
 <div style="display: flex; gap: 2em; align-items: flex-start;" markdown="1">
@@ -68,7 +68,7 @@ Much of today's mobility data — mobile phone location records, GPS traces, and
 </div>
 </div>
 
-<p style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
+<p style="font-size:1.5em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
 
 <div class="selected-work-wrap" markdown="1">
 
@@ -84,7 +84,7 @@ Much of today's mobility data — mobile phone location records, GPS traces, and
 
 <div style="margin-top: 3em;" markdown="1">
 
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.7em 0;" />
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 1.5em 0;" />
 <h2 style="margin-top: 0;">Sustainable Mobility</h2>
 
 <div style="display: flex; gap: 2em; align-items: flex-start;" markdown="1">
@@ -100,7 +100,7 @@ Reducing carbon emissions from transportation requires understanding not just in
 </div>
 </div>
 
-<p style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
+<p style="font-size:1.5em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
 
 <div class="selected-work-wrap" markdown="1">
 
@@ -120,9 +120,9 @@ Reducing carbon emissions from transportation requires understanding not just in
 
 <hr style="border: none; border-top: 1px solid #d1d5db; margin: 2em 0 0 0;" />
 
-<div style="margin-top: 0.7em;" markdown="1">
+<div style="margin-top: 1.5em;" markdown="1">
 
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.7em 0;" />
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 1.5em 0;" />
 <h2 style="margin-top: 0;">Mobility in a Changing Technological Landscape</h2>
 
 <div style="display: flex; gap: 2em; align-items: flex-start;" markdown="1">
@@ -138,7 +138,7 @@ Emerging mobility technologies and shifting lifestyles such as remote work are r
 </div>
 </div>
 
-<p style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
+<p style="font-size:1.5em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
 
 <div class="selected-work-wrap" markdown="1">
 
@@ -152,7 +152,7 @@ Emerging mobility technologies and shifting lifestyles such as remote work are r
 
 <div style="margin-top: 3em;" markdown="1">
 
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.7em 0;" />
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 1.5em 0;" />
 <h2 style="margin-top: 0;">Mobility & Climate Change</h2>
 
 <div style="display: flex; gap: 2em; align-items: flex-start;" markdown="1">
