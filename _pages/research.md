@@ -14,7 +14,7 @@ I am a geographer studying activity-travel behavior — how people move through 
 
 Access to activity opportunities — the places, services, and social interactions that sustain daily life — is not evenly distributed across space or population. I study how built environment factors, including land use mix, the distribution of social infrastructure, and access to public transportation, shape out-of-home activity participation, particularly for older adults and underserved populations. Drawing on GIS-based accessibility modeling and spatiotemporal analysis, I seek to reveal where and for whom mobility constraints are most acute, and what planning interventions might meaningfully close those gaps.
 
-## Mobility & Climate Resilience
+## Mobility & Climate Change
 
 ---
 
