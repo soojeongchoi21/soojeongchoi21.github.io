@@ -6,14 +6,22 @@ author_profile: true
 ---
 {% include base_path %}
 
+<style>
+.selected-work-wrap table { width:100%; border-collapse:collapse; margin-top:0.3em; table-layout:auto; }
+.selected-work-wrap thead { display:none; }
+.selected-work-wrap td { border:none; border-bottom:1px solid #e5e7eb; padding:0.4em 0; vertical-align:baseline; }
+.selected-work-wrap tr:last-child td { border-bottom:none; }
+.selected-work-wrap td:last-child { text-align:right; white-space:nowrap; padding-left:1.5em; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size:0.78em; letter-spacing:0.02em; color:#9ca3af; }
+</style>
+
 I am a geographer studying activity-travel behavior — how people move through place, what shapes their daily patterns, and how spatial structure mediates access to opportunities. My work draws on diverse geospatial data sources, including large-scale mobile phone location data, household travel surveys, and GPS traces, combining quantitative spatial analysis with qualitative methods to understand mobility not just as movement, but as access, constraint, and lived experience.
 
 <hr style="border: none; border-top: 1px solid #d1d5db; margin: 2em 0 0 0;" />
 
 <div style="margin-top: 3em;" markdown="1">
 
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.2em 0;" />
-<h2 style="margin-top: 0.2em;">Mobility Equity</h2>
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.6em 0;" />
+<h2>Mobility Equity</h2>
 
 <div style="display: flex; gap: 2em; align-items: flex-start;" markdown="1">
 <div style="flex: 1.3;" markdown="1">
@@ -30,7 +38,7 @@ Access to activity opportunities — the places, services, and social interactio
 
 <p style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
 
-<div markdown="1">
+<div class="selected-work-wrap" markdown="1">
 
 | | |
 |---|---:|
@@ -44,8 +52,8 @@ Access to activity opportunities — the places, services, and social interactio
 
 <div style="margin-top: 3em;" markdown="1">
 
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.2em 0;" />
-<h2 style="margin-top: 0.2em;">Discovering Behavior from Geospatial Data</h2>
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.6em 0;" />
+<h2>Discovering Behavior from Geospatial Data</h2>
 
 <div style="display: flex; gap: 2em; align-items: flex-start;" markdown="1">
 <div style="flex: 1.3;" markdown="1">
@@ -62,7 +70,7 @@ Much of today's mobility data — mobile phone location records, GPS traces, and
 
 <p style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
 
-<div markdown="1">
+<div class="selected-work-wrap" markdown="1">
 
 | | |
 |---|---:|
@@ -76,8 +84,8 @@ Much of today's mobility data — mobile phone location records, GPS traces, and
 
 <div style="margin-top: 3em;" markdown="1">
 
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.2em 0;" />
-<h2 style="margin-top: 0.2em;">Sustainable Mobility</h2>
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.6em 0;" />
+<h2>Sustainable Mobility</h2>
 
 <div style="display: flex; gap: 2em; align-items: flex-start;" markdown="1">
 <div style="flex: 1.3;" markdown="1">
@@ -94,7 +102,7 @@ Reducing carbon emissions from transportation requires understanding not just in
 
 <p style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
 
-<div markdown="1">
+<div class="selected-work-wrap" markdown="1">
 
 | | |
 |---|---:|
@@ -112,8 +120,8 @@ Reducing carbon emissions from transportation requires understanding not just in
 
 <div style="margin-top: 1.5em;" markdown="1">
 
-<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.2em 0;" />
-<h2 style="margin-top: 0.2em;">Mobility in a Changing Technological Landscape</h2>
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.6em 0;" />
+<h2>Mobility in a Changing Technological Landscape</h2>
 
 <div style="display: flex; gap: 2em; align-items: flex-start;" markdown="1">
 <div style="flex: 1.3;" markdown="1">
@@ -130,7 +138,7 @@ Emerging mobility technologies and shifting lifestyles such as remote work are r
 
 <p style="font-size:0.7em; letter-spacing:0.05em; color:#9ca3af; text-transform:uppercase; margin-top:1em; margin-bottom:0.3em;">Selected Work</p>
 
-<div markdown="1">
+<div class="selected-work-wrap" markdown="1">
 
 | | |
 |---|---:|
@@ -142,6 +150,7 @@ Emerging mobility technologies and shifting lifestyles such as remote work are r
 
 <div style="margin-top: 3em;" markdown="1">
 
+<hr style="border: none; border-top: 2px solid #437742; width: 2.5em; margin: 0 0 0.6em 0;" />
 <h2>Mobility & Climate Change</h2>
 
 <div style="display: flex; gap: 2em; align-items: flex-start;" markdown="1">
