@@ -171,5 +171,3 @@ Climate-related disruptions raise urgent questions about how much individuals ar
 </div>
 
 </div>
-
-</div>
