@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/files/CV_SooJeongChoi_Aug20_2026.pdf" type="application/pdf" width="100%" height="1000px" />
+<embed src="/files/CV_SooJeongChoi_Sep01_2026.pdf" type="application/pdf" width="100%" height="1000px" />
