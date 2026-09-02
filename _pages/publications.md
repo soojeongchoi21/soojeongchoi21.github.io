@@ -11,7 +11,7 @@ author_profile: true
 
 <style>
 .wordwrap { margin-bottom: 1.5em; }
-.pub-card { border: 1px solid #e5e7eb; border-radius: 12px; padding: 0.9em 1.5em 1.2em 1.5em; margin-bottom: 1em; background: #fff; }
+.pub-card { border: 1px solid #e5e7eb; border-radius: 12px; padding: 0.75em 1.5em 1.2em 1.5em; margin-bottom: 1em; background: #fff; }
 .pub-summary { display: flex; align-items: flex-start; justify-content: space-between; gap: 1em; list-style: none; cursor: pointer; margin: 0; padding: 0; }
 .pub-summary::-webkit-details-marker { display: none; }
 .pub-content { flex: 1; min-width: 0; }
