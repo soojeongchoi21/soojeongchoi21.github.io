@@ -7,10 +7,10 @@ author_profile: true
 {% include base_path %}
 
 <style>
-.selected-work-wrap table { width:100%; border-collapse:collapse; margin-top:0.3em; table-layout:auto; }
+.selected-work-wrap table { width:100% !important; border-collapse:collapse !important; margin-top:0.3em; table-layout:auto; border:none !important; }
 .selected-work-wrap thead { display:none; }
-.selected-work-wrap td { border:none; border-bottom:1px solid #e5e7eb; padding:0.4em 0; vertical-align:baseline; }
-.selected-work-wrap tr:last-child td { border-bottom:none; }
+.selected-work-wrap th, .selected-work-wrap td { border:none !important; border-bottom:1px solid #e5e7eb !important; padding:0.4em 0; vertical-align:baseline; }
+.selected-work-wrap tr:last-child td { border-bottom:none !important; }
 .selected-work-wrap td:last-child { text-align:right; white-space:nowrap; padding-left:1.5em; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size:0.78em; letter-spacing:0.02em; color:#9ca3af; }
 </style>
 
