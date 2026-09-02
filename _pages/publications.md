@@ -11,14 +11,14 @@ author_profile: true
 
 <style>
 .wordwrap { margin-bottom: 1.5em; }
-.pub-card { border: 1px solid #e5e7eb; border-radius: 12px; padding: 1em 1.5em; margin-bottom: 1em; background: #fff; }
+.pub-card { border: 1px solid #e5e7eb; border-radius: 12px; padding: 0.9em 1.5em 1.2em 1.5em; margin-bottom: 1em; background: #fff; }
 .pub-summary { display: flex; align-items: flex-start; justify-content: space-between; gap: 1em; list-style: none; cursor: pointer; margin: 0; padding: 0; }
 .pub-summary::-webkit-details-marker { display: none; }
 .pub-content { flex: 1; min-width: 0; }
 .pub-card-head { display: flex; align-items: center; gap: 0.8em; margin: 0 0 0.6em 0; }
 .pub-badge { font-size: 0.7em; font-weight: 700; letter-spacing: 0.03em; color: #1e3a8a; background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 6px; padding: 0.2em 0.6em; text-transform: uppercase; }
 .pub-date { font-size: 0.85em; color: #6b7280; }
-.pub-chevron { flex-shrink: 0; margin-top: 0.15em; color: #1e3a8a; transition: transform 0.2s ease; }
+.pub-chevron { flex-shrink: 0; margin-top: 0.35em; color: #1e3a8a; transition: transform 0.2s ease; }
 .pub-card[open] .pub-chevron { transform: rotate(180deg); }
 .pub-title { font-size: 1.05em; font-weight: 700; margin: 0; }
 .pub-citation { font-size: 0.92em; color: #4b5563; line-height: 1.6; margin: 0.5em 0 0 0; }
