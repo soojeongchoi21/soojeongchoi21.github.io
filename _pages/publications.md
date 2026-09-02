@@ -10,7 +10,8 @@ author_profile: true
 {% include base_path %}
 
 <style>
-.pub-card { border: 1px solid #e5e7eb; border-radius: 12px; padding: 1.2em 1.5em; margin-bottom: 1em; background: #fff; }
+.wordwrap { margin-bottom: 1.5em; }
+.pub-card { border: 1px solid #e5e7eb; border-radius: 12px; padding: 1em 1.5em; margin-bottom: 1em; background: #fff; }
 .pub-summary { display: flex; align-items: flex-start; justify-content: space-between; gap: 1em; list-style: none; cursor: pointer; margin: 0; padding: 0; }
 .pub-summary::-webkit-details-marker { display: none; }
 .pub-content { flex: 1; min-width: 0; }
@@ -25,6 +26,8 @@ author_profile: true
 .pub-abstract h4 { font-size: 1em; margin: 0 0 0.6em 0; }
 .pub-abstract p { font-size: 0.92em; color: #374151; line-height: 1.7; margin: 0; }
 </style>
+
+## Journal Articles
 
 <details class="pub-card" markdown="1">
 <summary class="pub-summary" markdown="1">
@@ -43,20 +46,22 @@ author_profile: true
 
 #### Abstract
 
-The gender imbalance and higher outmigration of women and youth in manufacturing and heavy industry cities operate as mechanisms deepening urban crisis beyond demographic phenomena. This study focused on industrial patriarchy as a factor reinforcing gendered spaces in industrial cities and conducted labor statistics analysis and activity-travel pattern analysis using personal travel surveys in nine Special Industrial Crisis Response Regions. Results revealed that gender employment gaps in special areas significantly exceed national averages, with pronounced economic activity cessation among family-formation-stage women in Ulsan Dong-gu and Geoje City. While male wages in heavy industry cities surpass national averages, women’s wages remain limited, confirming gender-based economic imbalances. Activity-travel analysis found that gendered space in special areas was markedly greater than in control groups. This study suggests that overcoming industrial city crises requires industrial restructuring alongside gender-inclusive job creation, career planning for women and youth, and work-family balance support systems. It emphasizes the urgent need to integrate gender perspectives into special area policies.
+The gender imbalance and higher outmigration of women and youth in manufacturing and heavy industry cities operate as mechanisms deepening urban crisis beyond demographic phenomena. This study focused on industrial patriarchy as a factor reinforcing gendered spaces in industrial cities and conducted labor statistics analysis and activity-travel pattern analysis using personal travel surveys in nine Special Industrial Crisis Response Regions. Results revealed that gender employment gaps in special areas significantly exceed national averages, with pronounced economic activity cessation among family-formation-stage women in Ulsan Dong-gu and Geoje City. While male wages in heavy industry cities surpass national averages, women's wages remain limited, confirming gender-based economic imbalances. Activity-travel analysis found that gendered space in special areas was markedly greater than in control groups. This study suggests that overcoming industrial city crises requires industrial restructuring alongside gender-inclusive job creation, career planning for women and youth, and work-family balance support systems. It emphasizes the urgent need to integrate gender perspectives into special area policies.
 
 </div>
 </details>
 
 <details class="pub-card" markdown="1">
-<summary markdown="1">
-<span class="pub-chevron">▼</span>
+<summary class="pub-summary" markdown="1">
+<div class="pub-content" markdown="1">
 <div class="pub-card-head" markdown="1">
 <span class="pub-badge">Journal Article</span>
 <span class="pub-date">Dec. 2024</span>
 </div>
 <p class="pub-title" markdown="1">Development of Multi-Dimensional Mobility Indicators (MDMI) for Agent-based Travel Pattern Classification</p>
 <p class="pub-citation" markdown="1">Won, M.S., Shim, J., **Choi, S.J.**, Lee, J.H. (2024). Development of Multi-Dimensional Mobility Indicators (MDMI) for Agent-based Travel Pattern Classification. *Journal of Korean Society of Transportation*, 42(6), 674-693. doi: 10.7470/jkst.2024.42.6.674</p>
+</div>
+<span class="pub-chevron">▼</span>
 </summary>
 
 <div class="pub-abstract" markdown="1">
@@ -71,14 +76,16 @@ Each person has unique travel and activity patterns, and understanding these cha
 ## Paper in Preparation
 
 <details class="pub-card" markdown="1">
-<summary markdown="1">
-<span class="pub-chevron">▼</span>
+<summary class="pub-summary" markdown="1">
+<div class="pub-content" markdown="1">
 <div class="pub-card-head" markdown="1">
 <span class="pub-badge">Under Review</span>
 <span class="pub-date">2026</span>
 </div>
 <p class="pub-title" markdown="1">Household sharing of electric vehicles and the influence on electric miles travelled</p>
 <p class="pub-citation" markdown="1">Lee, J.H., **Choi, S.J.**, Debapriya Chakraborty, Scott Hardman, Gil Tal. (2026). Household sharing of electric vehicles and the influence on electric miles travelled. *Humanities and Social Sciences Communications*.</p>
+</div>
+<span class="pub-chevron">▼</span>
 </summary>
 
 <div class="pub-abstract" markdown="1">
