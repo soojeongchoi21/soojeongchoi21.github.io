@@ -10,13 +10,13 @@ author_profile: true
 {% include base_path %}
 
 <style>
-.pub-card { border: 1px solid #e5e7eb; border-radius: 12px; padding: 1.2em 1.5em 1.2em 1.5em; margin-bottom: 1em; background: #fff; }
-.pub-card summary { list-style: none; cursor: pointer; position: relative; }
+.pub-card { border: 1px solid #e5e7eb; border-radius: 12px; padding: 1.2em 1.5em; margin-bottom: 1em; background: #fff; }
+.pub-card summary { list-style: none; cursor: pointer; position: relative; margin: 0; }
 .pub-card summary::-webkit-details-marker { display: none; }
-.pub-card-head { display: flex; align-items: center; gap: 0.8em; margin-bottom: 0.6em; padding-right: 1.8em; }
+.pub-card-head { display: flex; align-items: center; gap: 0.8em; margin: 0 0 0.6em 0; padding-right: 1.8em; }
 .pub-badge { font-size: 0.7em; font-weight: 700; letter-spacing: 0.03em; color: #1e3a8a; background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 6px; padding: 0.2em 0.6em; text-transform: uppercase; }
 .pub-date { font-size: 0.85em; color: #6b7280; }
-.pub-chevron { position: absolute; top: 0; right: 0; color: #1e3a8a; transition: transform 0.2s ease; }
+.pub-chevron { position: absolute; top: 0.1em; right: 0; color: #1e3a8a; transition: transform 0.2s ease; }
 .pub-card[open] .pub-chevron { transform: rotate(180deg); }
 .pub-title { font-size: 1.05em; font-weight: 700; margin: 0; }
 .pub-citation { font-size: 0.92em; color: #4b5563; line-height: 1.6; margin: 0.5em 0 0 0; }
@@ -34,8 +34,8 @@ author_profile: true
 <span class="pub-badge">Journal Article</span>
 <span class="pub-date">Aug. 2025</span>
 </div>
-<p class="pub-title">The Crisis of Industrial Cities and Industrial Patriarchy: A Focus on Special Industrial Crisis Response Regions</p>
-<p class="pub-citation">Kim, M.J., <strong>Choi, S.J.</strong>, Lee, J.H. (2025). The Crisis of Industrial Cities and Industrial Patriarchy: A Focus on Special Industrial Crisis Response Regions. *Journal of the Korean Urban Geographical Society*, 28(2), 113-130. doi: 10.21189/JKUGS.28.2.8</p>
+<p class="pub-title" markdown="1">The Crisis of Industrial Cities and Industrial Patriarchy: A Focus on Special Industrial Crisis Response Regions</p>
+<p class="pub-citation" markdown="1">Kim, M.J., **Choi, S.J.**, Lee, J.H. (2025). The Crisis of Industrial Cities and Industrial Patriarchy: A Focus on Special Industrial Crisis Response Regions. *Journal of the Korean Urban Geographical Society*, 28(2), 113-130. doi: 10.21189/JKUGS.28.2.8</p>
 </summary>
 
 <div class="pub-abstract" markdown="1">
@@ -54,8 +54,8 @@ The gender imbalance and higher outmigration of women and youth in manufacturing
 <span class="pub-badge">Journal Article</span>
 <span class="pub-date">Dec. 2024</span>
 </div>
-<p class="pub-title">Development of Multi-Dimensional Mobility Indicators (MDMI) for Agent-based Travel Pattern Classification</p>
-<p class="pub-citation">Won, M.S., Shim, J., <strong>Choi, S.J.</strong>, Lee, J.H. (2024). Development of Multi-Dimensional Mobility Indicators (MDMI) for Agent-based Travel Pattern Classification. *Journal of Korean Society of Transportation*, 42(6), 674-693. doi: 10.7470/jkst.2024.42.6.674</p>
+<p class="pub-title" markdown="1">Development of Multi-Dimensional Mobility Indicators (MDMI) for Agent-based Travel Pattern Classification</p>
+<p class="pub-citation" markdown="1">Won, M.S., Shim, J., **Choi, S.J.**, Lee, J.H. (2024). Development of Multi-Dimensional Mobility Indicators (MDMI) for Agent-based Travel Pattern Classification. *Journal of Korean Society of Transportation*, 42(6), 674-693. doi: 10.7470/jkst.2024.42.6.674</p>
 </summary>
 
 <div class="pub-abstract" markdown="1">
@@ -76,8 +76,8 @@ Each person has unique travel and activity patterns, and understanding these cha
 <span class="pub-badge">Under Review</span>
 <span class="pub-date">2026</span>
 </div>
-<p class="pub-title">Household sharing of electric vehicles and the influence on electric miles travelled</p>
-<p class="pub-citation">Lee, J.H., <strong>Choi, S.J.</strong>, Debapriya Chakraborty, Scott Hardman, Gil Tal. (2026). Household sharing of electric vehicles and the influence on electric miles travelled. *Humanities and Social Sciences Communications*.</p>
+<p class="pub-title" markdown="1">Household sharing of electric vehicles and the influence on electric miles travelled</p>
+<p class="pub-citation" markdown="1">Lee, J.H., **Choi, S.J.**, Debapriya Chakraborty, Scott Hardman, Gil Tal. (2026). Household sharing of electric vehicles and the influence on electric miles travelled. *Humanities and Social Sciences Communications*.</p>
 </summary>
 
 <div class="pub-abstract" markdown="1">
