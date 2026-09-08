@@ -17,17 +17,20 @@ author_profile: true
 .pub-content { flex: 1; min-width: 0; }
 .pub-card-head { display: flex; align-items: center; gap: 0.8em; margin: 0 0 0.6em 0; }
 .pub-badge { font-size: 0.7em; font-weight: 700; letter-spacing: 0.03em; color: #1e3a8a; background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 6px; padding: 0.2em 0.6em; text-transform: uppercase; }
+.pub-badge.prep { color: #6b7280; background: #f3f4f6; border-color: #d1d5db; }
 .pub-date { font-size: 0.85em; color: #6b7280; }
-.pub-chevron { flex-shrink: 0; margin-top: 0.35em; color: #1e3a8a; transition: transform 0.2s ease; }
-.pub-card[open] .pub-chevron { transform: rotate(180deg); }
+.pub-chevron { flex-shrink: 0; margin-top: 0.35em; color: #1e3a8a; }
+.pub-chevron::after { content: "▼"; }
+.pub-card[open] .pub-chevron::after { content: "▲"; }
 .pub-title { font-size: 1.05em; font-weight: 700; margin: 0; }
 .pub-citation { font-size: 0.92em; color: #4b5563; line-height: 1.6; margin: 0.5em 0 0 0; }
 .pub-abstract { border-top: 1px solid #e5e7eb; margin-top: 1.2em; padding-top: 1.2em; }
 .pub-abstract h4 { font-size: 1em; margin: 0 0 0.6em 0; }
 .pub-abstract p { font-size: 0.92em; color: #374151; line-height: 1.7; margin: 0; }
+.pub-static { padding-top: 0.1em; }
 </style>
 
-## Journal Articles
+## Peer-Reviewed Publications
 
 <details class="pub-card" markdown="1">
 <summary class="pub-summary" markdown="1">
@@ -39,7 +42,7 @@ author_profile: true
 <p class="pub-title" markdown="1">The Crisis of Industrial Cities and Industrial Patriarchy: A Focus on Special Industrial Crisis Response Regions</p>
 <p class="pub-citation" markdown="1">Kim, M.J., **Choi, S.J.**, Lee, J.H. (2025). The Crisis of Industrial Cities and Industrial Patriarchy: A Focus on Special Industrial Crisis Response Regions. *Journal of the Korean Urban Geographical Society*, 28(2), 113-130. doi: 10.21189/JKUGS.28.2.8</p>
 </div>
-<span class="pub-chevron">▼</span>
+<span class="pub-chevron"></span>
 </summary>
 
 <div class="pub-abstract" markdown="1">
@@ -61,7 +64,7 @@ The gender imbalance and higher outmigration of women and youth in manufacturing
 <p class="pub-title" markdown="1">Development of Multi-Dimensional Mobility Indicators (MDMI) for Agent-based Travel Pattern Classification</p>
 <p class="pub-citation" markdown="1">Won, M.S., Shim, J., **Choi, S.J.**, Lee, J.H. (2024). Development of Multi-Dimensional Mobility Indicators (MDMI) for Agent-based Travel Pattern Classification. *Journal of Korean Society of Transportation*, 42(6), 674-693. doi: 10.7470/jkst.2024.42.6.674</p>
 </div>
-<span class="pub-chevron">▼</span>
+<span class="pub-chevron"></span>
 </summary>
 
 <div class="pub-abstract" markdown="1">
@@ -73,7 +76,7 @@ Each person has unique travel and activity patterns, and understanding these cha
 </div>
 </details>
 
-## Paper in Preparation
+## Manuscripts Under Review
 
 <details class="pub-card" markdown="1">
 <summary class="pub-summary" markdown="1">
@@ -85,7 +88,7 @@ Each person has unique travel and activity patterns, and understanding these cha
 <p class="pub-title" markdown="1">Household sharing of electric vehicles and the influence on electric miles travelled</p>
 <p class="pub-citation" markdown="1">Lee, J.H., **Choi, S.J.**, Debapriya Chakraborty, Scott Hardman, Gil Tal. (2026). Household sharing of electric vehicles and the influence on electric miles travelled. *Humanities and Social Sciences Communications*.</p>
 </div>
-<span class="pub-chevron">▼</span>
+<span class="pub-chevron"></span>
 </summary>
 
 <div class="pub-abstract" markdown="1">
@@ -96,3 +99,34 @@ Current decarbonization strategies prioritize vehicle adoption; however, the env
 
 </div>
 </details>
+
+<details class="pub-card" markdown="1">
+<summary class="pub-summary" markdown="1">
+<div class="pub-content" markdown="1">
+<div class="pub-card-head" markdown="1">
+<span class="pub-badge">Under Review</span>
+</div>
+<p class="pub-title" markdown="1">Exploring heterogeneity in older adults' time-of-day activity-travel behavior and its influencing factors: A sequence regression tree analysis in South Korea</p>
+<p class="pub-citation" markdown="1">**Choi, S.J.**, Su, R., Goulias, K.G., Won, M., Lee, J.H. Exploring heterogeneity in older adults' time-of-day activity-travel behavior and its influencing factors: A sequence regression tree analysis in South Korea. *Journal of Transport Geography*.</p>
+</div>
+<span class="pub-chevron"></span>
+</summary>
+
+<div class="pub-abstract" markdown="1">
+
+#### Abstract
+
+Population aging is accelerating worldwide, and countries such as South Korea are transitioning into super-aged societies, making it essential to explain the diverse activity-travel needs of older adults as a foundation for age-friendly transportation and urban planning. This study explores heterogeneity in older adults' time-of-day activity-travel behavior and identifies the factors that differentiate it, using sequence regression tree analysis. Using data from the 2021 Korea National Transport Survey (K-NTS), we estimated a model for the entire sample of older adults (10,882 respondents), as well as separate models for urban (dong) and rural (eup or myeon) residents. Employment status consistently emerged as the primary determinant of activity-travel heterogeneity across all three models. Beyond employment, however, the models diverged by residential context: sex differentiated activity-travel patterns among urban older adults but not among rural older adults, while spatial accessibility, including to hospitals, clinics, pharmacies, senior centers, and super supermarkets, played a substantial role among rural older adults but none among urban older adults. This study provides a more comprehensive understanding of these patterns, which can be helpful in developing activity-based travel demand models for fast-aging countries and regions. These results also suggest that a multifaceted analysis of relationships for specific target groups can provide foundational data for the development of transportation or spatial response strategies. Lastly, the analysis utilizing sequence regression trees demonstrated the ability to identify differences that are not captured by traditional travel indicators.
+
+</div>
+</details>
+
+## Manuscripts in Preparation
+
+<div class="pub-card pub-static" markdown="1">
+<div class="pub-card-head" markdown="1">
+<span class="pub-badge prep">In Preparation</span>
+</div>
+<p class="pub-title" markdown="1">Developing Spatial Multi-Dimensional Mobility Indicators for Individual Travel Behavior Analysis</p>
+<p class="pub-citation" markdown="1">**Choi, S.J.**, Jung, Y., Shim, J., Jang, D., Lee, J.H. Developing Spatial Multi-Dimensional Mobility Indicators for Individual Travel Behavior Analysis.</p>
+</div>
