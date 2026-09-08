@@ -8,7 +8,7 @@ author_profile: true
 
   1. Exploring Urban Mobility Patterns with Multi-Dimensional Spatial Characteristics Sequence Analysis. **<var>GISER Symposium</var>**, <var>2026 AAG (American Association of Geographers) Annual Meeting.</var> San Francisco, CA. March 19, 2026. (Oral presentation)
 
-  2. Fast-Aging Society's Elderly Travel Behavior Analysis with Sequence Tree Method. <var>17th IATBR (International Association for Travel Behavior Research) Conference.</var> Vienna, Austria. July 18, 2024. (Extended abstract submission; Oral presentation)
+  2. Fast-Aging Society's Elderly Travel Behavior Analysis with Sequence Tree Method. <var>17th IATBR (International Association for Travel Behavior Research) Conference.</var> Vienna, Austria. July 18, 2024. (**Peer-reviewed extended abstract**; Oral presentation)
 
   3. Which spatial components affect Active aging society?: Focused on activity-travel behavior of older people, social infrastructure, and public transportation. <var>2024 Annual Conference of Korean Geographical Society.</var> Seoul, South Korea. June 28, 2024. (Oral presentation; **Award for Outstanding Oral Presentation**)
 
